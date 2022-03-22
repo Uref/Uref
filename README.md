@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Uref
 - 👀 I’m interested in Rust
-- 🌱 I’m currently learning Electoric engineering, CS in Univ.
+- 🌱 I’m currently learning Electorical engineering and CS in Univ.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
